@@ -63,22 +63,26 @@ This Python-based expense tracking application allows users to input expenses in
 ## Screenshots
 1. **Main GUI Window:**
 ![Main GUI Window]
-![Reference Image](/images_c_exp/Main%20GUI%20Window.png)
+![Reference Image](/images_c_exp/Main![ADD EXPENSES](https://github.com/user-attachments/assets/f6a5e456-b49d-464a-8cf0-acdf9eb1331a)
+%20GUI%20Window.png)
 *Main GUI Window*
 
 2. **Expense List:**
 ![Expense List]
-![Reference Image](/images_c_exp/Expense%20List.png)
+![Reference Image](/images_c_exp/Expen![VIEW EXPENSES](https://github.com/user-attachments/assets/b9d38c5a-81a9-4b3c-8ddc-02a49835e042)
+se%20List.png)
 *Expense List*
 
 3. **Total Spending:**
 ![TOTAL SPENDING]
-![Reference Image](/images_c_exp/TOTAL%20SPENDING.png)
+![Reference Image](/images_c_exp/TOTAL![TOTAL SPENDING](https://github.com/user-attachments/assets/f69dedd9-e985-481c-985c-03fc9259cad6)
+%20SPENDING.png)
 *Total Spending*
 
 4. **Pie Chart Visualization:**
 ![Pie Chart Visualization]
-![Reference Image](/images_c_exp/Pie%20Chart%20Visualization.png)
+![Reference Image](/images_c_exp/Pie%20Char![PIE CHART](https://github.com/user-attachments/assets/f86807d4-88cc-4dee-9268-d3dc1d95f2f0)
+t%20Visualization.png)
 *Pie Chart Visualization*
 
 ## Acknowledgments
